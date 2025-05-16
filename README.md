@@ -1,8 +1,8 @@
 ## Hi there 👋
 ![](https://komarev.com/ghpvc/?username=mrteasdale-cs)
 
-I'm Mr Teasdale, a head of department for Computer Science/ICT and teacher of A Level/IBDP Computer Science
-I'm currently learning AI and applying ML/DL techniques to solve problems.
+- I'm Mr Teasdale, a head of department for Computer Science/ICT and teacher of A Level/IBDP Computer Science
+- I'm currently learning AI and applying ML/DL techniques to solve problems.
 <!--
 **mrteasdale-cs/mrteasdale-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
