@@ -1,8 +1,11 @@
 ## Hi there 👋
 ![](https://komarev.com/ghpvc/?username=mrteasdale-cs)
 
-- I'm Mr Teasdale, a head of department for Computer Science/ICT and teacher of A Level/IBDP Computer Science
+- I'm Mr Teasdale, a head of department for Computer Science/ICT and teacher of A Level/IBDP Computer Science.
+- I use GitHub as a repository for source code written in my GCSE and Advanced level Computer Science lessons and for learning/educational purposes.
 - I'm currently learning AI and applying ML/DL techniques to solve problems.
+
+- Thanks for visiting!
 <!--
 **mrteasdale-cs/mrteasdale-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
