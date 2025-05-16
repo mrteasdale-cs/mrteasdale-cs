@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+![](https://komarev.com/ghpvc/?username=mrteasdale-cs)
+I'm a head of department for Computer Science and ICT, currently learning AI
 <!--
 **mrteasdale-cs/mrteasdale-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
